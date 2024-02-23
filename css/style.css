@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(150, 146, 88);
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: justify;
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fotoya{
+    background-color: rgb(157, 155, 126);
+    margin: auto;
+    border: 3px outset black;
+    text-align: center;
+    width: 40%;
+}
+
+img{
+    padding-bottom: 3%;
+}
+
+.fechas{
+    margin:auto;
+    text-align: center;
+    width: 15%;
+}
+p{
+    background-color: rgb(157, 155, 126);
+}
+
+h2{
+    background-color: rgb(102, 99, 59);
+}
+
+address{
+    text-align: right;
+}
